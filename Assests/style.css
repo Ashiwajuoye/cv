@@ -1,0 +1,139 @@
+body{background-color: white;
+}
+
+.picture{display: inline-block;
+    height: 15rem;
+    border-radius: 10rem;
+    margin-top: 5rem;
+    margin-left: 9rem;
+    margin-bottom: 0rem;
+    border-color: white;
+    border-style: double;
+
+}
+
+.lineup{background-color:rgb(78, 78, 1);
+    padding: -2rem;
+    width: 30rem;
+    height: 62rem;
+    display: inline-block;
+}
+
+.name{color: white;
+    font-size: x-large;
+    margin-top: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.jobposition{color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: center;
+    margin-top: -3%;
+    margin-bottom: 2rem;
+}
+
+hr{margin-top: -2%;
+}
+
+.heading{color: white;
+    margin-left: 5%;
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+.diagramlocation{height: 2.5rem;
+    margin-top: -2rem;
+    margin-left: 1rem;
+}
+
+.diagramtext{display: inline-block;
+    position: absolute;
+    left:4rem;
+    margin-top: -2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    color: white;
+}
+
+.diagramphone{display: inline-block;
+    list-style-type: none;
+    height: 2.5rem;
+    margin-top: 0rem;
+    margin-left: 1rem;
+    width: 2rem;
+}
+
+.diagramtext2{display: inline-block;
+    position: absolute;
+    left:4rem;
+    margin-top: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    color: white;
+}
+
+#space{margin-top: 1rem;
+}
+
+.social{margin-top: 1rem;
+    text-decoration: none;
+    color: none;
+}
+.social:hover{
+    background-color: brown;
+    border-radius: 50%;
+}
+
+.text{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    color: white;
+    margin-top: -1rem;
+    margin-left: 1rem;
+}
+
+
+.righthand{position: absolute;
+    background-color:white;
+    border-left-color: black;
+    border-left-style: dotted ;
+    border-width: 0.5rem;
+    padding: -2rem;
+    width: 36rem;
+    height: 62rem;
+    display: inline-block;
+}
+
+.heading2{color: rgb(247, 111, 111);
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    font-size: medium;
+}
+
+.heading3{color: rgb(196, 97, 196);
+    margin-left: 1rem;
+    margin-top: -0.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    font-size: small;
+}
+
+.text2{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    color: black;
+    margin-top: -0.5rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+li{margin-top: 0rem;
+    margin-left: -1.5rem;
+    
+}
+
+
+   
